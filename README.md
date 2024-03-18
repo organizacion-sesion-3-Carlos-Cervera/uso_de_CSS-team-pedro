@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/yCMPDFg-)
 ## Actividad 2: Introducción a CSS
 
 A partir del código HTML proporcionado en el archivo *starter.html* que se encuentra dentro de la carpeta _recursos_, añadir las reglas CSS necesarias para que la página resultante tenga el mismo aspecto que el de la figura incluida a continuación.
